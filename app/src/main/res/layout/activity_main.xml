@@ -13,6 +13,7 @@
         android:layout_marginStart="28dp"
         android:layout_marginTop="72dp"
         android:backgroundTint="#113709"
+        android:onClick="Guardar"
         android:text="@string/btn_guardar"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/et_contenido" />
