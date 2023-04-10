@@ -25,6 +25,7 @@
         android:layout_marginStart="116dp"
         android:layout_marginTop="72dp"
         android:backgroundTint="#FF113709"
+        android:onClick="Consultar"
         android:text="@string/btn_consultar"
         app:layout_constraintStart_toEndOf="@+id/button"
         app:layout_constraintTop_toBottomOf="@+id/et_contenido" />
